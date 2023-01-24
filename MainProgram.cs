@@ -9,7 +9,8 @@ namespace DotNetExercises
             // ReadAndWrite.writelineMethod();
             // Variables.variableTest();
             //  Operators.print();
-            TypeCasting.cast();
+            // TypeCasting.cast();
+            ErrorCatching.errorHandling();
         }
     }
 }
