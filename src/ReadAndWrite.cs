@@ -1,4 +1,6 @@
-﻿namespace DotNetExercises.src
+﻿using System;
+
+namespace DotNetExercises.src
 {
     public class ReadAndWrite
     {

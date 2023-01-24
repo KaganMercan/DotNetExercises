@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "console-programming/1.0.0": {
+      "DotNetExercises/1.0.0": {
         "runtime": {
-          "console-programming.dll": {}
+          "DotNetExercises.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "console-programming/1.0.0": {
+    "DotNetExercises/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

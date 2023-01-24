@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/home/kagan/NETProjects/DotNetExercises/console-programming.csproj": {}
+    "/home/kagan/NETProjects/DotNetExercises/DotNetExercises.csproj": {}
   },
   "projects": {
-    "/home/kagan/NETProjects/DotNetExercises/console-programming.csproj": {
+    "/home/kagan/NETProjects/DotNetExercises/DotNetExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kagan/NETProjects/DotNetExercises/console-programming.csproj",
-        "projectName": "console-programming",
-        "projectPath": "/home/kagan/NETProjects/DotNetExercises/console-programming.csproj",
+        "projectUniqueName": "/home/kagan/NETProjects/DotNetExercises/DotNetExercises.csproj",
+        "projectName": "DotNetExercises",
+        "projectPath": "/home/kagan/NETProjects/DotNetExercises/DotNetExercises.csproj",
         "packagesPath": "/home/kagan/.nuget/packages/",
         "outputPath": "/home/kagan/NETProjects/DotNetExercises/obj/",
         "projectStyle": "PackageReference",

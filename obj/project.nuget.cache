@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b8fsPLG7amV8SnTR4K6GA15tSQp6kW6VB9TP9+YreJQ6Sf7+g2H5uKumAJHqLwLpOm1ZNYweFTzUlKJTAVbARQ==",
+  "dgSpecHash": "fSslHhqgg7ablT/jrKc53PHE6+JxqGL5rxOs2XIsxeNN14YBeHK2p/3ZfVJUzpUyvJdxyqdLrsr/KJAZtnBZyw==",
   "success": true,
-  "projectFilePath": "/home/kagan/NETProjects/DotNetExercises/console-programming.csproj",
+  "projectFilePath": "/home/kagan/NETProjects/DotNetExercises/DotNetExercises.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

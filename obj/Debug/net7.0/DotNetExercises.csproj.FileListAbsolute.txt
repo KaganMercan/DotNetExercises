@@ -1,0 +1,15 @@
+/home/kagan/NETProjects/DotNetExercises/bin/Debug/net7.0/DotNetExercises
+/home/kagan/NETProjects/DotNetExercises/bin/Debug/net7.0/DotNetExercises.deps.json
+/home/kagan/NETProjects/DotNetExercises/bin/Debug/net7.0/DotNetExercises.runtimeconfig.json
+/home/kagan/NETProjects/DotNetExercises/bin/Debug/net7.0/DotNetExercises.dll
+/home/kagan/NETProjects/DotNetExercises/bin/Debug/net7.0/DotNetExercises.pdb
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/DotNetExercises.csproj.AssemblyReference.cache
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/DotNetExercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/DotNetExercises.AssemblyInfoInputs.cache
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/DotNetExercises.AssemblyInfo.cs
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/DotNetExercises.csproj.CoreCompileInputs.cache
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/DotNetExercises.dll
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/refint/DotNetExercises.dll
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/DotNetExercises.pdb
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/DotNetExercises.genruntimeconfig.cache
+/home/kagan/NETProjects/DotNetExercises/obj/Debug/net7.0/ref/DotNetExercises.dll
