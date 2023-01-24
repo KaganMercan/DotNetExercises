@@ -1,0 +1,15 @@
+/home/kagan/NETProjects/console-programming/bin/Debug/net7.0/console-programming
+/home/kagan/NETProjects/console-programming/bin/Debug/net7.0/console-programming.deps.json
+/home/kagan/NETProjects/console-programming/bin/Debug/net7.0/console-programming.runtimeconfig.json
+/home/kagan/NETProjects/console-programming/bin/Debug/net7.0/console-programming.dll
+/home/kagan/NETProjects/console-programming/bin/Debug/net7.0/console-programming.pdb
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/console-programming.csproj.AssemblyReference.cache
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/console-programming.GeneratedMSBuildEditorConfig.editorconfig
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/console-programming.AssemblyInfoInputs.cache
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/console-programming.AssemblyInfo.cs
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/console-programming.csproj.CoreCompileInputs.cache
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/console-programming.dll
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/refint/console-programming.dll
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/console-programming.pdb
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/console-programming.genruntimeconfig.cache
+/home/kagan/NETProjects/console-programming/obj/Debug/net7.0/ref/console-programming.dll
