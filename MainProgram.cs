@@ -1,12 +1,15 @@
+using DotNetExercises.src;
 
-namespace console_programming;
-
-class MainProgram
+namespace DotNetExercises
 {
-    static void Main(string[] args)
+    public class MainProgram
     {
-        // ReadAndWrite.writelineMethod();
-        // Variables.variableTest();
-        Operators.print();
+        static void Main(string[] args)
+        {
+            // ReadAndWrite.writelineMethod();
+            // Variables.variableTest();
+            //  Operators.print();
+            TypeCasting.cast();
+        }
     }
 }

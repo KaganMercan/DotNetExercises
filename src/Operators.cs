@@ -1,34 +1,35 @@
-namespace console_programming;
-
-class Operators
+namespace DotNetExercises.src
 {
-    public static void print()
+    class Operators
     {
-        // Logical Operators
-        //  ||, &&, !
-        bool isSuccess = false;
-        bool isCompleted = false;
-
-        if (isSuccess || isCompleted)
+        public static void print()
         {
-            Console.WriteLine("At least one of the boolean controllers is return true.");
-        }
-        else
-        {
-            Console.WriteLine("All boolean controllers are false.");
-        }
-        // Relational Operators
-        //  <, >, <=, >=, ==, !=
+            // Logical Operators
+            //  ||, &&, !
+            bool isSuccess = false;
+            bool isCompleted = false;
 
-        int var1 = 3;
-        int var2 = 4;
-        bool result = var1 < var2;
-        Console.WriteLine(result);
+            if (isSuccess || isCompleted)
+            {
+                Console.WriteLine("At least one of the boolean controllers is return true.");
+            }
+            else
+            {
+                Console.WriteLine("All boolean controllers are false.");
+            }
+            // Relational Operators
+            //  <, >, <=, >=, ==, !=
 
-        // Arithmetical Operators
-        //  +, -, *, /
-        int num1 = 10;
-        int num2 = 11;
-        Console.WriteLine(num1 * num2);
+            int var1 = 3;
+            int var2 = 4;
+            bool result = var1 < var2;
+            Console.WriteLine(result);
+
+            // Arithmetical Operators
+            //  +, -, *, /
+            int num1 = 10;
+            int num2 = 11;
+            Console.WriteLine(num1 * num2);
+        }
     }
 }
